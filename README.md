@@ -24,7 +24,7 @@ A lightweight and elegant task management app built with **ASP.NET Core MVC** an
 ### 🛠️ Run the App
 
 ```bash
-git clone https://github.com/gresaslh/ToDoApp.git
+git clone https://github.com/gresasalihi/ToDoApp.git
 cd ToDoApp
 dotnet restore
 dotnet ef database update
